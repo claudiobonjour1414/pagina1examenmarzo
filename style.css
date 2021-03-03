@@ -1,0 +1,21 @@
+.blue {background-color: aquamarine;}
+h1.titulo{color: orange; text-decoration: underline;text-align: center;}
+
+div.div1 {background-color:rgb(165, 10, 10); height:auto;}
+
+div.div2 {background-color: rgb(233, 191, 112); height: auto;}
+
+div.div3 {background-color: rgb(236, 150, 150); height: auto;}
+
+div.div4 {background-color: white; height: auto; text-align: center;}
+
+p.subtitulo{color: rebeccapurple; text-align: center;}
+
+img.izquierda {width: 200px;height: 150px; margin-left: 30%;}
+
+img.derecha {width: 200px;height: 150px; margin-left: 80%;}
+
+img.center {width: 200px;height: 150px;}
+p.center {text-align: center; }
+p.blue{color: rebeccapurple;}
+span.red{color: red;}
